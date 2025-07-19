@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name:       Clickable Cover Card
- * Description:       Example block scaffolded with Create Block tool.
- * Version:           0.1.0
+ * Description:       A cover block that is fully clickable with hover overlay effects.
+ * Version:           1.0.0
  * Requires at least: 6.7
  * Requires PHP:      7.4
  * Author:            Sam Sarjudeen

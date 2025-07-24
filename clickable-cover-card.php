@@ -6,6 +6,9 @@
  * Requires at least: 6.7
  * Requires PHP:      7.4
  * Author:            Sam Sarjudeen
+ * Author URI:        https://github.com/samsarj
+ * Plugin URI:        https://github.com/samsarj/clickable-cover-card
+ * GitHub Plugin URI: https://github.com/samsarj/clickable-cover-card
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       clickable-cover-card

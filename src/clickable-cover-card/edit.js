@@ -65,6 +65,7 @@ export default function Edit({ attributes, setAttributes }) {
 							})
 						}
 						withCreateSuggestion={false}
+						forceIsEditingLink={true}
 					/>
 				</PanelBody>
 				<PanelBody title="Background Image">
